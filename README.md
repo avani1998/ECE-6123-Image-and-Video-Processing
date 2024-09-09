@@ -1,1 +1,1 @@
-# ECE-6123-Image-and-Video-Processing
+# Image-and-Video-Processing
